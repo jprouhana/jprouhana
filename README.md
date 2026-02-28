@@ -4,7 +4,7 @@ CS sophomore @ Arizona State University
 
 Interested in quantum computing and machine learning: currently exploring quantum algorithms and how they compare against classical methods on small problems.
 
-### what i work with
+### Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
