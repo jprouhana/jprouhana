@@ -1,8 +1,8 @@
-## hey, i'm john paul
+## Hey, I am John Paul!
 
-CS sophomore @ Arizona State University (Barrett Honors)
+CS sophomore @ Arizona State University 
 
-interested in quantum computing and machine learning — currently exploring variational quantum algorithms and how they compare against classical methods on small-scale problems.
+Interested in quantum computing and machine learning: currently exploring quantum algorithms and how they compare against classical methods on small problems.
 
 ### what i work with
 
@@ -15,14 +15,14 @@ interested in quantum computing and machine learning — currently exploring var
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### what i've been working on
+### Past few projects:
 
 - **QAOA for combinatorial optimization** — benchmarking approximation ratios across circuit depths on random graphs
 - **quantum vs classical classifiers** — VQC and quantum kernel SVM compared against classical SVM
 - **error mitigation** — zero-noise extrapolation and measurement calibration for noisy circuits
 - **barren plateaus** — gradient variance analysis in parameterized quantum circuits
 
-### contact
+### Contact
 
 [![Email](https://img.shields.io/badge/Email-jrouhana@asu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jrouhana@asu.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-jprouhana-181717?style=flat&logo=github&logoColor=white)](https://github.com/jprouhana)
