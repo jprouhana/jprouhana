@@ -1,16 +1,7 @@
-### Hi, I'm John Paul
+### hey, i'm john paul
 
-CS sophomore at Arizona State University interested in quantum computing and machine learning.
+CS sophomore @ ASU. into quantum computing and ML.
 
-Currently exploring how variational quantum algorithms (VQE, QAOA) and quantum kernel methods can be applied to optimization and classification problems. Most of my recent work uses Qiskit to build and benchmark hybrid quantum-classical systems on simulators.
+been working on variational quantum algorithms (QAOA, VQE) and quantum kernel methods using qiskit. most of my repos are experiments comparing quantum vs classical approaches on small problems.
 
-#### What I've been working on
-
-- Comparing quantum feature map encodings and their effect on classification accuracy
-- Benchmarking error mitigation strategies for noisy quantum circuits
-- Investigating trainability limitations (barren plateaus) in parameterized quantum circuits
-- Implementing QAOA for combinatorial optimization and VQE for molecular simulation
-
-#### Tools I use
-
-Python, Qiskit, NumPy, SciPy, scikit-learn, Matplotlib, Jupyter
+**tools:** python, qiskit, numpy, scipy, scikit-learn, matplotlib
