@@ -1,4 +1,4 @@
-## Hey, I am John Paul!
+## Hey, I'm John Rouhana!
 
 CS sophomore @ Arizona State University 
 
